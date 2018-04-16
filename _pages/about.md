@@ -7,10 +7,7 @@ description: <a href="https://www.colorado.edu">University of Colorado Boulder</
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>ENVD 201</p>
-    <p>1060 18th Street</p>
-    <p>Boulder, Colorado 80309</p>
+  
 
 news: true
 social: true
