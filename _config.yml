@@ -16,20 +16,20 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # put your github username
-twitter_username: # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
+github_username: lxing532# put your github username
+twitter_username: solar12138# put your twitter username
+linkedin_username: linzi-xing-6aa311117# put your linkedin username
+scholar_authorid: 7HB97aAAAAAJ# put your google scholar author id
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  ...
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Linzi Xing's Blogs
+blog_description: 
 
 # Pagination
 paginate: 4
