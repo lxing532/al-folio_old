@@ -15,9 +15,9 @@ social: true
 
 Hi! Welcome to my homepage!
 
-I am now a master student at [University of Colorado Boulder](https://www.colorado.edu), major in [Computer Science](https://www.colorado.edu/cs/). I work with [Prof. Michael J. Paul](http://cmci.colorado.edu/~mpaul/). My research interests mainly focuse on combining probablistic based natural language processing technologies and their applications on social media datasets.
+I am now a master student at [University of Colorado Boulder](https://www.colorado.edu), majoring in [Computer Science](https://www.colorado.edu/cs/). I am honored to work with [Prof. Michael J. Paul](http://cmci.colorado.edu/~mpaul/). My research interests are mainly about probablistic based NLP applications on social media datasets.
 
-I received my Bachelor degree of Management Information System from [Soochow University](http://eng.suda.edu.cn/), under the supervison of [Prof. Li Zhang](https://www.researchgate.net/profile/Li_Zhang80).
+Formerly, I received my MIS Bachelor degree from [Soochow University](http://eng.suda.edu.cn/), under the supervison of [Prof. Li Zhang](https://www.researchgate.net/profile/Li_Zhang80).
 
-I will join the Computer Science Department of University of British Columbia as a Ph.D. student this fall.
+I will join the Computer Science Department, University of British Columbia as a Ph.D. student this fall.
 
