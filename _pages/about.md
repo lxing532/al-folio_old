@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: <strong>Linzi</strong> Xing
 
-description: <a href="https://www.colorado.edu">University of British Columbia</a>
+description: <a href="https://www.ubc.ca/">University of British Columbia</a>
 
 profile:
   align: right
