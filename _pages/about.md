@@ -7,7 +7,7 @@ description: <a href="https://www.ubc.ca/">University of British Columbia</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_img.jpg
   
 
 news: true
