@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-04-12 15:59:00-0400
+date: 2018-09-05 07:59:00-0400
 inline: true
 ---
 
-New homepage! :sparkles: :smile:
+Starting my Ph.D. journey!
