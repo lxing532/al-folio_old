@@ -4,4 +4,4 @@ date: 2020-02-13 07:59:00-0400
 inline: true
 ---
 
-Our paper on ["Multilingual Twitter Corpus and Baselines for Evaluating Demographic Bias in Hate Speech Recognition"](https://lrec2020.lrec-conf.org/en/) is accepted at LREC 2020!
+Our paper ["Multilingual Twitter Corpus and Baselines for Evaluating Demographic Bias in Hate Speech Recognition"](https://lrec2020.lrec-conf.org/en/) is accepted at LREC 2020!
