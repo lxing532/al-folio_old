@@ -16,7 +16,7 @@ social: true
 
 Hi! Welcome to my homepage!
 
-I am currently a second year computer science Ph.D. student at University of British Columbia.
+I am currently a third year computer science Ph.D. student at University of British Columbia.
 
 I obtained my M.S. degree from the Department of Computer Science, [University of Colorado Boulder](https://www.colorado.edu) in 2018 under the supervison of [Professor Michael J. Paul](http://cmci.colorado.edu/~mpaul/). Before that, I received my B.S. degree from School of Computer Science & Technology, [Soochow University](http://eng.suda.edu.cn/) in 2016.
 
