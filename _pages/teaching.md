@@ -11,7 +11,7 @@ Term 1, Winter 2018
 Term 2, Winter 2018
 
 <strong>[TA] CPSC 503 - Computational Linguistics</strong>
-Term 2, Winter 2018 | Term 2, Winter 2019
+Term 2, Winter 2018 | Term 2, Winter 2019 | Term 1, Winter 2020 
 
 <strong>[TA] CPSC 322 - Introduction to Artificial Intelligence</strong>
 Term 1, Summer 2019
